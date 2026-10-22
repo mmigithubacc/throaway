@@ -1,0 +1,2 @@
+Rarieda: OAG-library-834ef4dd-comparative.pdf <- https://libraryir.parliament.go.ke/items/834ef4dd-561a-46bd-9650-3f86f5d5b893 (Parliament library; FY 2015-2016 report, used only for its FY 2014-2015 comparative column)
+Rarieda: OAG-library-7b8041c2-200dpi.pdf <- https://libraryir.parliament.go.ke/items/7b8041c2-6b9e-4d87-b611-b1808b83b3a4 (re-rendered at 200 dpi from the original oversize PDF to fit the 100 MB upload limit; all pages kept, page content unchanged; the original's text layer is not carried over)
